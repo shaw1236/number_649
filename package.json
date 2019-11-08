@@ -1,0 +1,42 @@
+{
+  "name": "number_649",
+  "version": "0.0.1",
+  "description": "This package will provide fun for lottery 649",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaw1236/number_649"
+  },
+  "keywords": [
+    "649",
+    "lottery",
+    "number"
+  ],
+  "author": {
+    "name": "Simon Li"
+  },
+  "readme": "# Provide simple 649 lottery fun",
+  "readmeFilename": "README.md",
+  "dependencies": { 
+        "fs": "0.0.1-security",
+        "read-excel-file": "4.0.3",
+        "fast-csv": "3.4.0"
+  },
+  "devDependencies": {
+        "fs": "0.0.1-security",
+        "read-excel-file": "4.0.3",
+        "fast-csv": "3.4.0"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/shaw1236/number_649/issues"
+  },
+  "homepage": "https://github.com/shaw1236/number_649",
+  "_id": "number_649@0.0.1",
+  "scripts": {},
+  "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
+  "_from": "number_649@"
+}
